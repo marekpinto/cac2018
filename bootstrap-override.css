@@ -1,0 +1,30 @@
+.jumbotron{
+    height: 30vh;
+    margin-bottom: 0;
+}
+.jumbotron h2 small{
+    font-size: 40px;
+    margin-left: 12%;
+}
+.jumbotron h1{
+    font-size: 80px;
+}
+.inside{
+    background-color: purple;
+    height: 40vh;
+    padding: 0;
+}
+.container-fluid{
+    background-color: lightcyan;
+    height: 70vh;
+    padding: 0;
+    line-height: 60px;
+}
+a{
+    background-color: lightseagreen;
+    padding: 10px;
+    border-radius: 15px;
+    color: black;
+    
+    
+}
