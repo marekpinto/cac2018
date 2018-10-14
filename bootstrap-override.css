@@ -3,11 +3,18 @@
     margin-bottom: 0;
 }
 .jumbotron h2 small{
-    font-size: 40px;
-    margin-left: 12%;
+    font-size: 5vh;
+    margin-left: 20vw;
+    margin-right: 0vw;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
 }
 .jumbotron h1{
-    font-size: 80px;
+    font-size: 9vh;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
 }
 .inside{
     background-color: purple;
@@ -17,14 +24,11 @@
 .container-fluid{
     background-color: lightcyan;
     height: 70vh;
-    padding: 0;
-    line-height: 60px;
+    padding: 0;   
 }
 a{
     background-color: lightseagreen;
-    padding: 10px;
-    border-radius: 15px;
+    padding: 2vh;
+    border-radius: 3vh;
     color: black;
-    
-    
 }
