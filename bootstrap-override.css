@@ -16,18 +16,14 @@
     margin-top: 2vh;
     margin-bottom: 2vh;
 }
-.inside{
-    background-color: purple;
-    height: 40vh;
-    padding: 0;
-}
+
 .container-fluid{
-    background-color: lightcyan;
+    background-color: #e0ffff;
     height: 70vh;
     padding: 0;   
 }
 a{
-    background-color: lightseagreen;
+    background-color: #20b2aa;
     padding: 2vh;
     border-radius: 3vh;
     color: black;
